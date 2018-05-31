@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493899004 source:c:\users\alin\desktop\cursuri\monopoli\main.cpp
+	<iostream>
+	<string>
+
+1496826649 source:c:\users\abrodne\desktop\facultate\2016  anul 1\semestrul 2\asd 2 spataru si bonchis\proiect\monopoli\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
+1496826649 source:d:\facultate\2016  anul 1\semestrul 2\asd 2 spataru si bonchis\proiect\monopoli\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<ctime>
+
